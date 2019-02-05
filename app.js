@@ -1,3 +1,5 @@
 const sayHello = (name) => {
-    console.log("hello")
+    return console.log("hello")
 }
+
+setTimeout()
